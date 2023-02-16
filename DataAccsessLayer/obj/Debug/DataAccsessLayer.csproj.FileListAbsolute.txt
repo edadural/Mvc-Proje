@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll.config
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\DataAccsessLayer.pdb
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityLayer.dll
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CopyComplete
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.dll
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.pdb
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.Migrations.mig1.resources
+C:\Users\HP\Documents\Mvc Proje Kamp\MvcProjeKampi\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.GenerateResource.cache
