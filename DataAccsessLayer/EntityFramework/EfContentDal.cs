@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccsessLayer.EntityFramework
 {
-    internal class EfContentDal
+    public class EfContentDal
     {
     }
 }

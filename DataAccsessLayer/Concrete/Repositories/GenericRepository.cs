@@ -23,13 +23,22 @@ namespace DataAccsessLayer.Concrete.Repositories
 
         public void Delete(T p)
         {
-            _object.Remove(p);
+            var deletedEntity = c.Entry(p);
+            deletedEntity.State = EntityState.Deleted;
+            // _object.Remove(p);
             c.SaveChanges();
+        }
+
+        public T Get(Expression<Func<T, bool>> filter)
+        {
+            return _object.SingleOrDefault(filter);         // bir dizide veya listede sadece bir tande deger geriye dondurmek icin kullanılan metod
         }
 
         public void Insert(T p)
         {
-            _object.Add(p);
+            var addedEntity = c.Entry(p);           // eklenecek olan entity degerine atama 
+            addedEntity.State = EntityState.Added;
+            // _object.Add(p);
             c.SaveChanges();
         }
 
@@ -45,6 +54,8 @@ namespace DataAccsessLayer.Concrete.Repositories
 
         public void Update(T p)
         {
+            var updatedEntity = c.Entry(p);
+            updatedEntity.State = EntityState.Modified;
             c.SaveChanges();
         }
     }

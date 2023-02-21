@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MvcProjeKampi",
+    "\\MvcProjeKampi\\Views",
+    "\\MvcProjeKampi\\Views\\Category"
   ],
+  "SelectedNode": "\\MvcProjeKampi\\Views\\Category\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
